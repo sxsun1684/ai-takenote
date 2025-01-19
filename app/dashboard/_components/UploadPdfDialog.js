@@ -87,7 +87,7 @@ function UploadPdfDialog({children,isMaxFile}) {
   return (
     <Dialog open={open}>
   <DialogTrigger asChild>
-      <Button onClick={()=>setOpen(true)} disabled={isMaxFile} className="w-full">+ Upload PDF File</Button>
+      <Button onClick={()=>setOpen(true)} disabled={isMaxFile} className="w-full bg-rose-700 text-rose-100">Upload PDF</Button>
 
   </DialogTrigger>
   <DialogContent>
@@ -103,7 +103,7 @@ function UploadPdfDialog({children,isMaxFile}) {
                     onChange={(event)=>OnFileSelect(event)}/>
                 </div>
                 <div className='mt-2'>
-                    <label>File Name *</label>
+                    <label>File Name</label>
                     <Input placeholder="File Name" onChange={(e)=>setFileName(e.target.value)} />
                 </div>
                

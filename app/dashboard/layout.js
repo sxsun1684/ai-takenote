@@ -5,7 +5,7 @@ import Header from './_components/Header'
 function DashboardLayout({children}) {
   return (
     <div>
-        <div className=' md:w-64 h-screen fixed'>
+        <div className=' md:w-64 h-screen fixed bg-rose-50'>
             <SideBar/>
         </div>
         <div className='md:ml-64'>
