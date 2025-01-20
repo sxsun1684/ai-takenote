@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Note-Taking App Using React, Tailwind CSS, and LangChain | SaaS App
+
+Build a powerful AI-powered PDF note-taking app from scratch! This guide outlines the steps to create a modern SaaS app using Next.js, Tailwind CSS, LangChain, and advanced AI capabilities.
+## Tech Stack
+- Frontend: Next.js, React, Tailwind CSS
+- Authentication: Clerk
+- Backend: Convex DB
+- AI Integration: LangChain, Gemini API
+- Hosting: Vercel
 
 ## Getting Started
 
@@ -16,9 +24,24 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Features
+- Next.js React App: Modern and efficient React framework for building applications.
+- Authentication: Social and email/password authentication using Clerk.
+- Real-Time Database: Seamlessly store and manage user data with Convex DB.
+- Tailwind CSS: Learn and apply Tailwind CSS for responsive and elegant UI designs.
+- Dashboard Layout: Create an intuitive dashboard to manage user interactions.
+- Upload PDFs: Enable users to upload PDFs for AI-powered analysis.
+- LangChain Integration: Leverage LangChain for:
+- Text Splitting
+- Embedding
+- Vector Storage
+- Gemini API: Integrate AI modal capabilities for enhanced AI interactions.
+- Text Editor: Build a custom text editor for seamless note-taking.
+- Vector Search: Implement query-based vector search for AI-driven results.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+
+
 
 ## Learn More
 
