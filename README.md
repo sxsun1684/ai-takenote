@@ -6,9 +6,12 @@ Build a powerful AI-powered PDF note-taking app from scratch! This guide outline
 ##Features
 - Authentication: Social and email/password authentication using Clerk.
 
-
-![Payment](./file/payment.png)
 - Payment: Upgrade services through PayPal API as the development tool.
+![Payment](./file/payment.png)
+
+  
+- Real-Time Database: Seamlessly store and manage user data with Convex DB.
+![Convex](./convexdb1.png)
 ## Tech Stack
 - Frontend: Next.js, React, Tailwind CSS
 - Authentication: Clerk
