@@ -19,7 +19,7 @@ Build a powerful AI-powered PDF note-taking app from scratch! This guide outline
 - Backend: Convex DB
 - AI Integration: LangChain, Gemini API
 - Hosting: Vercel
-=======
+
 ##Overview
 Build a powerful AI-powered PDF note-taking app from scratch! This guide outlines the steps to create a modern SaaS app 
 using Next.js, Tailwind CSS, LangChain, and advanced AI capabilities.
