@@ -1,6 +1,14 @@
 # AI Note-Taking App Using React, Tailwind CSS, and LangChain | SaaS App
 
 Build a powerful AI-powered PDF note-taking app from scratch! This guide outlines the steps to create a modern SaaS app using Next.js, Tailwind CSS, LangChain, and advanced AI capabilities.
+
+![Homepage](./file/homepage.png)
+##Features
+- Authentication: Social and email/password authentication using Clerk.
+
+
+![Payment](./file/payment.png)
+- Payment: Upgrade services through PayPal API as the development tool.
 ## Tech Stack
 - Frontend: Next.js, React, Tailwind CSS
 - Authentication: Clerk
