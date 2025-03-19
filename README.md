@@ -12,7 +12,7 @@ Build a powerful AI-powered PDF note-taking app from scratch! This guide outline
 
   
 - Real-Time Database: Seamlessly store and manage user data with Convex DB.
-![Convex](./convexdb1.png)
+![Convex](./file/convexdb1.png)
 ## Tech Stack
 - Frontend: Next.js, React, Tailwind CSS
 - Authentication: Clerk
